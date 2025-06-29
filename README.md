@@ -10,7 +10,7 @@
 <p>
   <a href="https://darxtech.com/"><img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=181825" /></a>
   <a href="mailto:abodehussien1@gmail.com"><img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181825" /></a>
-  <a href="https://linkedin.com/in/abdullahussien-shalal"><img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181825" /></a>
+  <a href="linkedin.com/in/abdullahussien-shalal-b8982235a"><img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181825" /></a>
   <a href="https://x.com/ShalalExtreme"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=black&labelColor=181825" /></a>
 </p>
 
