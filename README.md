@@ -169,62 +169,53 @@ STATUS: ████████████████████████
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-</div>
-
 <table>
 <tr>
+
+<!-- DARX Vault Beta -->
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="80"/>
-<br>
-<img src="https://img.shields.io/badge/DARX_VAULT-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" />
-<br><br>
-<strong>🛡️ DIGITAL FORTRESS</strong>
-<br><br>
-Military-grade encrypted vault for ultimate data protection. Zero-knowledge architecture ensures even we can't access your data.
-<br><br>
-<img src="https://img.shields.io/badge/Status-DEVELOPMENT-FF6B6B?style=flat-square&logoColor=white" />
-<br>
-<em>Python • PySide6 • AES-256 • SQLite</em>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="80"/><br>
+  <img src="https://img.shields.io/badge/DARX_VAULT_BETA-39B3C4?style=for-the-badge&logoColor=white&labelColor=000000" /><br><br>
+  <strong>🛡️ DARX VAULT BETA</strong><br><br>
+  100 % offline, military-grade encrypted vault.  
+  Stores media, documents, crypto wallets, and notes with zero-knowledge security.<br><br>
+  <img src="https://img.shields.io/badge/Status-BETA-39B3C4?style=flat-square&logoColor=white" /><br>
+  <em>Python • PySide6 • AES-256 • SQLite</em>
 </td>
+
+<!-- AI Recon (Development) -->
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="80"/>
-<br>
-<img src="https://img.shields.io/badge/DARX_SENTINEL-4ECDC4?style=for-the-badge&logoColor=white&labelColor=000000" />
-<br><br>
-<strong>🕵️ AI GUARDIAN</strong>
-<br><br>
-AI-powered privacy leak detection system. Monitors and protects your digital footprint 24/7 with machine learning.
-<br><br>
-<img src="https://img.shields.io/badge/Status-BETA-FFE66D?style=flat-square&logoColor=black" />
-<br>
-<em>YOLOv8 • Python • Flask • AI/ML</em>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="80"/><br>
+  <img src="https://img.shields.io/badge/AI_RECON-4ECDC4?style=for-the-badge&logoColor=white&labelColor=000000" /><br><br>
+  <strong>🤖 AI RECON</strong><br><br>
+  Real-time system diagnostics &amp; self-healing automation suite.  
+  Monitors CPU/GPU/RAM, predicts failures, and runs one-click fixes via AI agent.<br><br>
+  <img src="https://img.shields.io/badge/Status-DEVELOPMENT-FF6B6B?style=flat-square&logoColor=white" /><br>
+  <em>Python • PySide6 • psutil • AI/ML</em>
 </td>
+
+<!-- DARX Notepad Final -->
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="80"/>
-<br>
-<img src="https://img.shields.io/badge/DARX_RECON-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000" />
-<br><br>
-<strong>📊 INTEL SYSTEM</strong>
-<br><br>
-Advanced system monitoring and performance optimization. Real-time analytics with predictive capabilities.
-<br><br>
-<img src="https://img.shields.io/badge/Status-ACTIVE-4ECDC4?style=flat-square&logoColor=white" />
-<br>
-<em>C++ • OpenCV • Real-time Analytics</em>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="80"/><br>
+  <img src="https://img.shields.io/badge/DARX_NOTEPAD-FFE66D?style=for-the-badge&logoColor=black&labelColor=000000" /><br><br>
+  <strong>📝 DARX NOTEPAD FINAL</strong><br><br>
+  Encrypted note-taking with fake-login decoy and instant kill-switch.  
+  Write secure notes, add images &amp; PDFs — nothing more, nothing less.<br><br>
+  <img src="https://img.shields.io/badge/Status-FINAL-5CB85C?style=flat-square&logoColor=white" /><br>
+  <em>PySide6 • AES-256 • Cross-platform</em>
 </td>
+
+<!-- DARX Sentinal (Development) -->
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="80"/>
-<br>
-<img src="https://img.shields.io/badge/DARX_NOTEPAD-FFE66D?style=for-the-badge&logoColor=black&labelColor=000000" />
-<br><br>
-<strong>📝 SECURE COMMS</strong>
-<br><br>
-End-to-end encrypted note-taking platform. Secure communication with multimedia support and cross-platform sync.
-<br><br>
-<img src="https://img.shields.io/badge/Status-TESTING-00D9FF?style=flat-square&logoColor=white" />
-<br>
-<em>PySide6 • Encryption • Cross-platform</em>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="80"/><br>
+  <img src="https://img.shields.io/badge/DARX_SENTINAL-FC5185?style=for-the-badge&logoColor=white&labelColor=000000" /><br><br>
+  <strong>🕵️ DARX SENTINAL</strong><br><br>
+  Cloud-based exposure-risk analyzer SaaS.  
+  Scans emails, files &amp; links against breach intel, rates the danger, and suggests instant counter-measures.<br><br>
+  <img src="https://img.shields.io/badge/Status-DEVELOPMENT-FF6B6B?style=flat-square&logoColor=white" /><br>
+  <em>Python • Flask • YOLOv8 • AI/ML</em>
 </td>
+
 </tr>
 </table>
 
