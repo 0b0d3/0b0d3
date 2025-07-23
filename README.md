@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=280§ion=header&text=Abdullah%20Hussien&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Founder%20%40%20DARX%20Tech&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=280§ion=header&text=Abdulla%20Husien&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Founder%20%40%20DARX%20Tech&descAlignY=60&descSize=20"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF¢er=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Secure+and+Privacy-Centric+Applications;Specializing+in+AI-Driven+Security+Solutions;Full-Stack+Development+with+a+Security-First+Mindset" alt="Typing SVG" />
