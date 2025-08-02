@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=280§ion=header&text=Abdulla%20Husien&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Founder%20%40%20DARX%20Tech&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=280§ion=header&text=Abdullahusien%20Shallal&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Founder%20%40%20DARX%20Tech&descAlignY=60&descSize=20"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF¢er=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Secure+and+Privacy-Centric+Applications;Specializing+in+AI-Driven+Security+Solutions;Full-Stack+Development+with+a+Security-First+Mindset" alt="Typing SVG" />
@@ -22,7 +22,7 @@
 
 ### 🧠 About Me
 
-I am a security-focused Software Engineer and AI enthusiast with a deep specialization in building robust digital security solutions. As the Founder & CEO of **DARX Tech**, my mission is to architect and develop applications that leverage advanced AI, strong encryption, and zero-knowledge privacy principles to protect user data and digital assets. I am passionate about creating technologies that are not only powerful and efficient but also inherently secure by design.
+I am a security-focused Software Engineer and AI enthusiast with a deep specialization in building robust digital security solutions. As the Founder &amp; CEO of **DARX Tech**, my mission is to architect and develop applications that leverage advanced AI, strong encryption, and zero-knowledge privacy principles to protect user data and digital assets. I am passionate about creating technologies that are not only powerful and efficient but also inherently secure by design.
 
 **Core Competencies:**
 -   🔐 **End-to-End Encryption:** Architecting systems with AES-256 and other modern cryptographic standards.
@@ -43,7 +43,7 @@ I am a security-focused Software Engineer and AI enthusiast with a deep speciali
 
 #### **Core Languages**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,rust,cpp,cs,js,html,css&theme=dark" />
 </p>
 
 #### **Frameworks & Libraries**  
@@ -53,7 +53,7 @@ I am a security-focused Software Engineer and AI enthusiast with a deep speciali
 
 #### **Tools & Platforms**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,pycharm,idea,github,figma&theme=dark" />
 </p>
 
 #### **Areas of Expertise**
@@ -128,7 +128,7 @@ I am a security-focused Software Engineer and AI enthusiast with a deep speciali
   <strong>🛡️ DARX Vault (Beta)</strong><br><br>
   A 100% offline, military-grade encrypted vault for media, documents, crypto wallets, and notes with zero-knowledge security.<br><br>
   <img src="https://img.shields.io/badge/Status-BETA-39B3C4?style=flat-square" /><br>
-  <em>Python • PySide6 • AES-256 • SQLite</em>
+  <em>Rust • PySide6 • AES-256 • SQLite</em>
 </td>
 
 <!-- AI Recon (Development) -->
@@ -137,7 +137,7 @@ I am a security-focused Software Engineer and AI enthusiast with a deep speciali
   <strong>🤖 AI Recon (In Development)</strong><br><br>
   A real-time system diagnostics & self-healing automation suite that monitors hardware, predicts failures, and runs one-click fixes via an AI agent.<br><br>
   <img src="https://img.shields.io/badge/Status-DEVELOPMENT-FF6B6B?style=flat-square" /><br>
-  <em>Python • PySide6 • psutil • AI/ML</em>
+  <em>Rust • PySide6 • psutil • AI/ML</em>
 </td>
 
 <!-- DARX Notepad Final -->
@@ -152,10 +152,10 @@ I am a security-focused Software Engineer and AI enthusiast with a deep speciali
 <!-- DARX Sentinel (Development) -->
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/DARX_SENTINEL-FC5185?style=for-the-badge" /><br><br>
-  <strong>🕵️ DARX Sentinel (In Development)</strong><br><br>
-  Cloud-based exposure-risk analyzer (SaaS). Scans files & links against breach intelligence to rate threats and suggest countermeasures.<br><br>
-  <img src="https://img.shields.io/badge/Status-DEVELOPMENT-FF6B6B?style=flat-square" /><br>
-  <em>Python • Flask • YOLOv8 • AI/ML</em>
+  <strong>🕵️ DARX Sentinel (Active)</strong><br><br>
+  Cloud-based exposure-risk analyzer (SaaS). Scans files & links against breach intelligence to rate threats and suggest countermeasures. Free with final DARX Tech website launch.<br><br>
+  <img src="https://img.shields.io/badge/Status-ACTIVE-5CB85C?style=flat-square" /><br>
+  <em>Rust • Actix • YOLOv8 • AI/ML</em>
 </td>
 
 </tr>
@@ -164,8 +164,10 @@ I am a security-focused Software Engineer and AI enthusiast with a deep speciali
 
 ---
 
-> My focus is on architecting digital fortresses that stand against modern cyber threats.
+> My focus is on architecting digital fortresses that stand against modern cyber threats. 
 > Every algorithm is a guardian, every system a shield protecting what matters most: data, privacy, and user trust.
+
+Government Contact: For secure collaboration inquiries regarding our Rust-powered cybersecurity tools, please reach out to abdulla@darxtech.com.
 
 <div align="center">
 
