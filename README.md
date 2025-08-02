@@ -1,34 +1,44 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=280§ion=header&text=Abdullahusien%20Shallal&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Founder%20%40%20DARX%20Tech&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=280§ion=header&text=Abdullahusien%20Shallal&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Architect%20%E2%80%A2%20%20%20%E2%80%A2%20Founder%20%40%20DARXTech&descAlignY=60&descSize=20"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF¢er=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Secure+and+Privacy-Centric+Applications;Specializing+in+AI-Driven+Security+Solutions;Full-Stack+Development+with+a+Security-First+Mindset" alt="Typing SVG" />
 
 <!-- Social Links -->
+<div align="center">
+
+<!-- Socials: Professional & Clean Icons -->
 <p>
-  <a href="https://darxtech.com/"><img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=181825" /></a>
-  <a href="mailto:abodehussien1@gmail.com"><img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181825" /></a>
-<a href="https://www.linkedin.com/in/abdullahussien-shalal-b8982235a">
-  <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181825" />
-</a>
-  <a href="https://x.com/ShalalExtreme"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=black&labelColor=181825" /></a>
+  <a href="https://darxtech.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=firefox&logoColor=FF6B6B&labelColor=0D1117&color=0D1117" alt="DARXTech Website"/>
+  </a>
+  <a href="mailto:abodehussien1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0D1117&color=0D1117" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdullahussien-shalal-b8982235a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=4ECDC4&labelColor=0D1117&color=0D1117" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/ShalalExtreme" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0D1117&color=0D1117" alt="X / Twitter"/>
+  </a>
 </p>
 
 </div>
 
+
 ---
 
-### 🧠 About Me
+### About Me
 
 I am a security-focused Software Engineer and AI enthusiast with a deep specialization in building robust digital security solutions. As the Founder &amp; CEO of **DARX Tech**, my mission is to architect and develop applications that leverage advanced AI, strong encryption, and zero-knowledge privacy principles to protect user data and digital assets. I am passionate about creating technologies that are not only powerful and efficient but also inherently secure by design.
 
 **Core Competencies:**
--   🔐 **End-to-End Encryption:** Architecting systems with AES-256 and other modern cryptographic standards.
--   🤖 **AI-Driven Security:** Utilizing Machine Learning and Computer Vision for threat detection and system monitoring.
--   🛡️ **Privacy Architecture:** Implementing zero-knowledge principles to ensure maximum user privacy.
--   🚀 **Full-Stack Development:** Building scalable, cross-platform applications from the ground up.
+-    **End-to-End Encryption:** Architecting systems with AES-256 and other modern cryptographic standards.
+-    **AI-Driven Security:** Utilizing Machine Learning and Computer Vision for threat detection and system monitoring.
+-    **Privacy Architecture:** Implementing zero-knowledge principles to ensure maximum user privacy.
+-    **Full-Stack Development:** Building scalable, cross-platform applications from the ground up.
 
 ---
 
@@ -89,7 +99,7 @@ I am a security-focused Software Engineer and AI enthusiast with a deep speciali
 
 ---
 
-### 🏆 Key Metrics & Achievements
+###  Key Metrics & Achievements
 <div align="center">
 <table>
 <tr>
@@ -110,12 +120,11 @@ I am a security-focused Software Engineer and AI enthusiast with a deep speciali
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=0b0d3&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
 </div>
 
 ---
 
-### 🚀 Key Projects (Founder @ DARX Tech)
+###  Key Projects (Founder @ DARX Tech)
 
 <div align="center">
 
@@ -134,7 +143,7 @@ I am a security-focused Software Engineer and AI enthusiast with a deep speciali
 <!-- AI Recon (Development) -->
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/AI_RECON-4ECDC4?style=for-the-badge" /><br><br>
-  <strong>🤖 AI Recon (In Development)</strong><br><br>
+  <strong> AI Recon (In Development)</strong><br><br>
   A real-time system diagnostics & self-healing automation suite that monitors hardware, predicts failures, and runs one-click fixes via an AI agent.<br><br>
   <img src="https://img.shields.io/badge/Status-DEVELOPMENT-FF6B6B?style=flat-square" /><br>
   <em>Rust • PySide6 • psutil • AI/ML</em>
@@ -143,7 +152,7 @@ I am a security-focused Software Engineer and AI enthusiast with a deep speciali
 <!-- DARX Notepad Final -->
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/DARX_NOTEPAD-FFE66D?style=for-the-badge&logoColor=black" /><br><br>
-  <strong>📝 DARX Notepad (Final)</strong><br><br>
+  <strong> DARX Notepad (Final)</strong><br><br>
   Encrypted note-taking application with fake-login decoy and an instant kill-switch feature. Simple, secure, and effective.<br><br>
   <img src="https://img.shields.io/badge/Status-RELEASE-5CB85C?style=flat-square" /><br>
   <em>PySide6 • AES-256 • Cross-Platform</em>
@@ -152,7 +161,7 @@ I am a security-focused Software Engineer and AI enthusiast with a deep speciali
 <!-- DARX Sentinel (Development) -->
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/DARX_SENTINEL-FC5185?style=for-the-badge" /><br><br>
-  <strong>🕵️ DARX Sentinel (Active)</strong><br><br>
+  <strong> DARX Sentinel (Active)</strong><br><br>
   Cloud-based exposure-risk analyzer (SaaS). Scans files & links against breach intelligence to rate threats and suggest countermeasures. Free with final DARX Tech website launch.<br><br>
   <img src="https://img.shields.io/badge/Status-ACTIVE-5CB85C?style=flat-square" /><br>
   <em>Rust • Actix • YOLOv8 • AI/ML</em>
@@ -171,6 +180,6 @@ Government Contact: For secure collaboration inquiries regarding our Rust-powere
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=0b0d3&color=00D9FF&style=for-the-badge&label=Profile+Visitors" alt="Profile Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=0b0d3&style=for-the-badge&label=Profile+Views&color=FF6B6B&labelColor=181825" alt="Profile Visitors"/>
 
 </div>
