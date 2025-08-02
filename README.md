@@ -32,7 +32,7 @@
 
 ### About Me
 
-I am a security-focused Software Engineer and AI enthusiast with a deep specialization in building robust digital security solutions. As the Founder &amp; CEO of **DARX Tech**, my mission is to architect and develop applications that leverage advanced AI, strong encryption, and zero-knowledge privacy principles to protect user data and digital assets. I am passionate about creating technologies that are not only powerful and efficient but also inherently secure by design.
+I am a security-focused Software Expert and AI enthusiast with a deep specialization in building robust digital security solutions. As the Founder &amp; CEO of **DARX Tech**, my mission is to architect and develop applications that leverage advanced AI, strong encryption, and zero-knowledge privacy principles to protect user data and digital assets. I am passionate about creating technologies that are not only powerful and efficient but also inherently secure by design.
 
 **Core Competencies:**
 -    **End-to-End Encryption:** Architecting systems with AES-256 and other modern cryptographic standards.
