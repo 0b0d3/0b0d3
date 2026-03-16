@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=&fontSize=0"/>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=systems+programmer.+security+minded.;rust+%2B+python.+always+compiling.;reads+rfcs+for+fun." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=security+software+developer.;rust+%2B+python.+always+compiling.;reads+rfcs+for+fun." alt="Typing SVG" />
 
 <br/>
 
