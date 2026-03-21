@@ -2,7 +2,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=security+software+developer.;rust+%2B+python.+always+compiling.;builds+tools+nobody+asked+for." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=CEO+%40+Tyvern+%E2%80%94+zero-trust+defense+systems.;security+software+developer.;rust+%2B+python.+always+compiling.;open-source+contributor." alt="Typing SVG" />
 
 <br/>
 
@@ -24,13 +24,34 @@
 
 <div align="center">
 
-### languages
-
-<img src="https://skillicons.dev/icons?i=rust,python&theme=dark" height="48" />
+### about
 
 ```
-Rust  →  systems, security tooling, performance-critical code
+Abdallah Hussien  —  CEO @ Tyvern
+Building HydraGate: a zero-trust defense system.
+Security-first developer. Open-source contributor.
+```
+
+---
+
+### currently building
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Tyvern** | Cybersecurity company focused on zero-trust architecture | Rust, Python |
+| **HydraGate** | Zero-trust defense system | Rust, Systems Programming |
+| **Open Source** | Active contributor to projects across the ecosystem | JS, Python, HTML |
+
+---
+
+### languages
+
+<img src="https://skillicons.dev/icons?i=rust,python,js,html&theme=dark" height="48" />
+
+```
+Rust    →  systems, security tooling, performance-critical code
 Python  →  scripting, automation, ML experimentation
+JS      →  open-source contributions, web tooling
 ```
 
 ---
@@ -50,6 +71,12 @@ Python  →  scripting, automation, ML experimentation
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0b0d3&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4a9eff&text_color=8b8b8b&langs_count=6"/>
 
 <img src="https://streak-stats.demolab.com/?user=0b0d3&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161b22&ring=4a9eff&fire=4a9eff&currStreakLabel=8b8b8b&sideLabels=8b8b8b" alt="streak"/>
+
+---
+
+### trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=0b0d3&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 
 ---
 
