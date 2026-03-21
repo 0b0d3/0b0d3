@@ -2,7 +2,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=CEO+%40+Tyvern+%E2%80%94+zero-trust+defense+systems.;security+software+developer.;rust+%2B+python.+always+compiling.;open-source+contributor." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=founder+%40+Tyvern+%E2%80%94+zero-trust+defense+systems.;security+software+developer.;rust+%2B+python.+always+compiling.;open-source+contributor." alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@
 ### about
 
 ```
-Abdallah Hussien  —  CEO @ Tyvern
+Abdallah Hussien  —  Founder @ Tyvern
 Building HydraGate: a zero-trust defense system.
 Security-first developer. Open-source contributor.
 ```
