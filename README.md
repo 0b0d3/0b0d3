@@ -26,4 +26,9 @@
 
 `rust` · `python` · `typescript`
 
-[linkedin](https://www.linkedin.com/in/abdullahussien-shalal-b8982235a) · [x](https://x.com/0b0d3_) · [shallal@abdullahusien.com](mailto:shallal@abdullahusien.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahusien-shallal-b8982235a/)
+&nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0b0d3_)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shallal@abdullahusien.com)
