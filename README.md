@@ -1,4 +1,4 @@
-**Abdallah Hussien** — security software developer.
+**Abdullahusien Shallal** — security software developer.
 
 Building **HydraGate**: a zero-trust defense system in Rust — eBPF/XDP kernel filtering, VDF proof-of-work, ML-KEM-768 post-quantum key exchange, CRDT mesh coordination.
 
