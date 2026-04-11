@@ -1,4 +1,4 @@
-**Abdallah Hussien** — founder @ [Tyvern](https://tyvern.com), security software developer.
+**Abdallah Hussien** — security software developer.
 
 Building **HydraGate**: a zero-trust defense system in Rust — eBPF/XDP kernel filtering, VDF proof-of-work, ML-KEM-768 post-quantum key exchange, CRDT mesh coordination.
 
@@ -17,12 +17,8 @@ focus areas
 
 **active work**
 
-- [`tyvern/HydraGate`](https://github.com/0b0d3/HydraGate) — zero-trust server defense, ~21K lines Rust
+- [`0b0d3/HydraGate`](https://github.com/0b0d3/HydraGate) — zero-trust server defense, ~21K lines Rust
 - [`0b0d3/wireguard-pq`](https://github.com/0b0d3/wireguard-pq) — WireGuard + ML-KEM-768 hybrid PQ key exchange
-
-**open source**
-
-contributing to security and systems tooling across the ecosystem.
 
 ---
 
