@@ -24,10 +24,6 @@ areas
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=0b0d3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b8b8b&count_private=true&hide=contribs&show=reviews,prs_merged" />
-
----
-
 `rust` · `python` · `typescript`
 
 &nbsp;
